@@ -1,0 +1,6 @@
+ELEGOO UNO R3 x1
+I2C lcd x1
+HC-SR04 ultra sonic sensor x2
+9V battery x1
+button x1
+jumper cable x15
